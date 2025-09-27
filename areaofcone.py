@@ -1,0 +1,6 @@
+l=int(input("Enter the length :"))
+r=int (input ("enter the radius"))
+area=3.14*r*(r+l)
+print('length',l)
+print ('radius',r)
+print ('area of cone',area)
