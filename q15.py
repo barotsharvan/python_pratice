@@ -1,0 +1,11 @@
+first_name = input("Enter First Name: ")
+last_name = input("Enter Last Name: ")
+city = input("Enter City: ")
+mobile = input("Enter Mobile Number: ")
+email = input("Enter Email ID: ")
+
+print("\n--- User Details ---")
+print(f"Name        : {first_name} {last_name}")
+print(f"City        : {city}")
+print(f"Mobile No.  : {mobile}")
+print(f"Email ID    : {email}")
